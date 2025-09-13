@@ -1,0 +1,21 @@
+.page {
+  max-width: 1280px;
+  margin: auto;
+  background-color: #323233;
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  line-height: 1.5;
+  min-width: 320px;
+}
+
+@media screen and (max-width: 768px) {
+  .page {
+    padding-top: 30px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .page {
+    padding-top: 20px;
+  }
+}

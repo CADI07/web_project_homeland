@@ -1,0 +1,10 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/page.css);
+@import url(../blocks/header.css);
+@import url(../blocks/main.css);
+@import url(../blocks/logo.css);
+@import url(../blocks/image.css);
+@import url(../blocks/footer.css);
+@import url(../vendor/fonts.css);
+@import url(../vendor/fonts.css/Inter18pt-Bold.woff2);
+@import url(../vendor/fonts.css/Inter18pt-Regular.woff2);
